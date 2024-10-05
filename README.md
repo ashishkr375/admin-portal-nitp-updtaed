@@ -1,1 +1,1 @@
-# admin-portal-nitp-updtaed
+NITP-Admin Portal, Deployed on EC2
